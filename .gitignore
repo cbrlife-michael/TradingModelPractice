@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+ft_basic.pkl
+hermes_daily_main.pkl
+min_main_from_mat.pkl
+
+.vscode/
