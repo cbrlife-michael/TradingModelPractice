@@ -9,4 +9,5 @@ pass
 ```
 python==3.8
 pandas==1.4.1
+https://github.com/AI4Finance-Foundation/ElegantRL#Requirements
 ```
